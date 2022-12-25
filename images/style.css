@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.pagecontainer{
+    color:#fbfbfb;
+    font-family:Poppins;
+}
+.login{
+    width: 43px;
+    height: 23px;
+    text-decoration: none;
+}
+.createaccount{
+    width: 152px;
+    height: 23px;
+    border: 1px solid #FFFFFF;
+    border-radius: 3px;
+    opacity: 1;
+    text-decoration: none;
+}
+.heroimage{
+    background-image:url("./heroimage.png") no-repeat;
+    width: 1366px;
+    height: 480px;
+}
